@@ -7,3 +7,5 @@
 Natural Cocoa Powder
 suco Cocoa Powdwer
 Suco Cocoa Powder
+
+![Here is the Logo for Spectra Industries](https://shop.spectraindustries.com.ng/wp-content/uploads/2020/08/Untitled-design-55.png)
