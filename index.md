@@ -13,3 +13,5 @@ Here is the Logo for Spectra Industries Limited ( br)
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [ ] Introduce myself to the world
+
+![here is the link to the official website](https://shop.spectraindustries.com.ng/)
